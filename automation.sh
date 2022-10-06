@@ -66,19 +66,3 @@ if [ ! -f /etc/cron.d/automation ]; then
     echo '0 0 * * * root /home/root/Automation_Project/automation.sh' >> /etc/cron.d/automation
 fi
 
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
